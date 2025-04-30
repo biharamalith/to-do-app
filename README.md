@@ -28,4 +28,4 @@ flutter pub get
 ```
 
 ✍️ Author – @Bihara Malith
-Developed for Gusto IT Solutions as the technical task for intership 
+Developed for Gusto IT Solutions as the technical task for the internship. 
