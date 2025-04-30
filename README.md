@@ -30,6 +30,5 @@ cd todoapp
 flutter pub get
 ```
 
-✍️ Author
-Your Name – @Bihara Malith
+✍️ Author – @Bihara Malith
 Developed for Gusto IT Solutions as the technical task for intership 
