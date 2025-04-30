@@ -16,9 +16,6 @@ A clean and functional **ToDo app built with Flutter** and **Firebase**. Users c
 - [Firebase Authentication](https://firebase.google.com/products/auth)
 - [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
 
-## 📸 Screenshots
-
-_Add your screenshots here if available_
 
 ## 📦 Getting Started
 
